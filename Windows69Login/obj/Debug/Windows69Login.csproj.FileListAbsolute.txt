@@ -1,0 +1,11 @@
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows69Login.theWindow.resources
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows69Login.Form2.resources
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows69Login.csproj.GenerateResource.cache
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows69Login.csproj.CoreCompileInputs.cache
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows69Login.csprojAssemblyReference.cache
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows69Login.Properties.Resources.resources
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\loginui69.exe.config
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\loginui69.exe
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\loginui69.pdb
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\loginui69.exe
+C:\Users\kaz18001436\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\loginui69.pdb
